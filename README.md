@@ -261,15 +261,20 @@ Completed a technical internship applying software development skills within a p
 
 ## 📜 Certifications
 
-**JavaScript**
-<img src="https://img.shields.io/badge/JavaScript_Udemy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p>
+  <strong>JavaScript: Udemy – Meta Brains</strong><br>
+  <img src="https://img.shields.io/badge/JavaScript_Udemy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-**React JS Web Development**
-<img src="https://img.shields.io/badge/React_JS_IEC-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<p>
+  <strong>React Js Web Development: IEC (Institute of Emerging Careers)</strong><br>
+  <img src="https://img.shields.io/badge/React_JS_IEC-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
-**Google AI**
-<img src="https://img.shields.io/badge/Google_AI_Essentials_Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
+<p>
+  <strong>Google AI: Coursera - Google Specialization</strong><br>
+  <img src="https://img.shields.io/badge/Google_AI_Essentials_Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Analytics
