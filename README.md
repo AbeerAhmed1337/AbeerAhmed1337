@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0524,25:1a0b3d,50:2d1359,75:3d1a78,100:4c1d95&amp;height=280&amp;section=header&amp;text=Abeer%20Ahmed&amp;fontSize=70&amp;fontColor=E9D5FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20and%20Backend%20Engineer%20%7C%20Agentic%20Systems%20Builder&amp;descAlignY=55&amp;descSize=20&amp;descColor=C4B5FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0524,25:1a0b3d,50:2d1359,75:3d1a78,100:4c1d95&amp;height=280&amp;section=header&amp;text=Abeer%20Ahmed&amp;fontSize=70&amp;fontColor=E9D5FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20and%20Full-Stack%20Engineer%20%7C%20Agentic%20Systems%20Builder&amp;descAlignY=55&amp;descSize=20&amp;descColor=C4B5FD"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LangGraph+%2B+LangChain+%2B+FastAPI;Multi-Agent+Architecture+Designer;Graph-Powered+AI+Applications;Turning+LLMs+into+Production+Systems" alt="Typing SVG" />
