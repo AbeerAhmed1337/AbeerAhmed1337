@@ -75,13 +75,14 @@ I care deeply about the **product engineering mindset** — shipping systems tha
 **AI / ML & Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-4c1d95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-4c1d95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0050FE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,powershell&theme=dark"/>
 
 ---
 
