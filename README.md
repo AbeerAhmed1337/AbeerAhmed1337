@@ -49,12 +49,13 @@ I care deeply about the **product engineering mindset** — shipping systems tha
 ⚡ Fun Fact:             I debug LLM tool-calling parsers for fun (mostly)
 ```
 
+
 **Open To:**
 
-<img src="https://img.shields.io/badge/AI%2FBackend%20Engineering%20Roles-6d28d9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic%20AI%20Collaboration-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20Source%20Contribution-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Graduate%20Studies%20(AI%2FCS)-a78bfa?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-6d28d9?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend%20%26%20Backend%20Roles-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM%20Integration%20in%20Web%20Dev-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic%20AI%20Collaboration-a78bfa?style=flat-square" />
 
 ---
 
