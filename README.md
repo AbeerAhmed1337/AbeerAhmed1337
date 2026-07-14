@@ -261,13 +261,14 @@ Completed a technical internship applying software development skills within a p
 
 ## 📜 Certifications
 
-**Google**
+**JavaScript**
+<img src="https://img.shields.io/badge/JavaScript_Udemy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+**React JS Web Development**
+<img src="https://img.shields.io/badge/React_JS_IEC-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
-**Anthropic**
-
-<img src="https://img.shields.io/badge/Claude%20Certified%20Architect%2C%20Foundations%20(CCA--F)-In%20Progress-6d28d9?style=for-the-badge&logo=anthropic&logoColor=white"/>
+**Google AI**
+<img src="https://img.shields.io/badge/Google_AI_Essentials_Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 ---
 
