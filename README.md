@@ -276,6 +276,16 @@ Completed a technical internship applying software development skills within a p
   <strong>Google AI: Coursera - Google Specialization</strong><br>
   <img src="https://img.shields.io/badge/Google_AI_Essentials_Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
+<p>
+  <strong>Google: Deploy Production Ready Agents: DataCamp</strong><br>
+  <img src="https://img.shields.io/badge/Deploy_Production_Ready_Agents_DataCamp-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p>
+  <strong>Google: Build and Deploy Agents in Production: DataCamp</strong><br>
+  <img src="https://img.shields.io/badge/Build_and_Deploy_Agents_DataCamp-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Analytics
