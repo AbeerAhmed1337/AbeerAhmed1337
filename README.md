@@ -35,7 +35,7 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/win32/code_150x150.png" style="display:none;"/>
 
-I'm an **AI & Backend Engineer** and recent Computer Science graduate from **NED University of Engineering & Technology, Karachi**, specializing in **agentic AI systems**, **LLM orchestration**, and **production-grade backend architecture**.
+I'm an **AI & Full Stack Software Engineer** and recent Computer Science graduate from **NED University of Engineering & Technology, Karachi**, specializing in **agentic AI systems**, **LLM orchestration**, and **production-grade backend architecture**.
 
 My core focus lies at the intersection of **software engineering rigor** and **applied AI** — designing multi-agent pipelines with **LangChain / LangGraph**, building high-throughput APIs with **FastAPI**, and modeling complex relational data with **graph databases** like Neo4j. I approach AI systems the way a backend engineer approaches distributed systems: with attention to state management, fault tolerance, latency, and cost — not just prompt design.
 
