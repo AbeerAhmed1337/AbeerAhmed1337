@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0524,25:1a0b3d,50:2d1359,75:3d1a78,100:4c1d95&amp;height=280&amp;section=header&amp;text=Abeer%20Ahmed&amp;fontSize=70&amp;fontColor=E9D5FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20and%20Full-Stack%20Engineer%20%7C%20Agentic%20Systems%20Builder&amp;descAlignY=55&amp;descSize=20&amp;descColor=C4B5FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F10,25:1C1C1F,50:2A2A2E,75:5A6B75,100:8CA3B0&height=280&section=header&text=Abeer%20Ahmed&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Full-Stack%20Engineer%20%7C%20Agentic%20Systems%20Builder&descAlignY=55&descSize=20&descColor=9CA3AF"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LangGraph+%2B+LangChain+%2B+FastAPI;Multi-Agent+Architecture+Designer;Graph-Powered+AI+Applications;Turning+LLMs+into+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8CA3B0&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LangGraph+%2B+LangChain+%2B+FastAPI;Multi-Agent+Architecture+Designer;Graph-Powered+AI+Applications;Turning+LLMs+into+Production+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓-BS%20Computer%20Science-4c1d95?style=flat-square&labelColor=0f0524"/>
-<img src="https://img.shields.io/badge/NED%20University-Karachi-6d28d9?style=flat-square&labelColor=0f0524"/>
-<img src="https://img.shields.io/badge/📍-Karachi,%20Pakistan-7c3aed?style=flat-square&labelColor=0f0524"/>
+<img src="https://img.shields.io/badge/🎓-BS%20Computer%20Science-1C1C1F?style=flat-square&labelColor=0F0F10"/>
+<img src="https://img.shields.io/badge/NED%20University-Karachi-2A2A2E?style=flat-square&labelColor=0F0F10"/>
+<img src="https://img.shields.io/badge/📍-Karachi,%20Pakistan-8CA3B0?style=flat-square&labelColor=0F0F10"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/abeer-ahmed-1a5b002b6"><img src="https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b3d"/></a>
-<a href="mailto:siddiqui.abeer456@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b3d"/></a>
-<a href="https://github.com/AbeerAhmed1337"><img src="https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b3d"/></a>
-<a href="https://portfolio-bice-psi-t09twg7r92.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-9333ea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b3d"/></a>
+<a href="https://linkedin.com/in/abeer-ahmed-1a5b002b6"><img src="https://img.shields.io/badge/LinkedIn-Connect-8CA3B0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C1F"/></a>
+<a href="mailto:siddiqui.abeer456@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9CA3AF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1C1F"/></a>
+<a href="https://github.com/AbeerAhmed1337"><img src="https://img.shields.io/badge/GitHub-Follow-8CA3B0?style=for-the-badge&logo=github&logoColor=white&labelColor=1C1C1F"/></a>
+<a href="https://portfolio-bice-psi-t09twg7r92.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8CA3B0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1C1C1F"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbeerAhmed1337&label=Profile%20Views&color=6d28d9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/AbeerAhmed1337?label=Followers&style=flat-square&color=7c3aed&labelColor=0f0524"/>
-<img src="https://img.shields.io/github/stars/AbeerAhmed1337?label=Stars&style=flat-square&color=8b5cf6&labelColor=0f0524"/>
+<img src="https://komarev.com/ghpvc/?username=AbeerAhmed1337&label=Profile%20Views&color=2A2A2E&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/AbeerAhmed1337?label=Followers&style=flat-square&color=8CA3B0&labelColor=0F0F10"/>
+<img src="https://img.shields.io/github/stars/AbeerAhmed1337?label=Stars&style=flat-square&color=8CA3B0&labelColor=0F0F10"/>
 
 </div>
 
@@ -52,10 +52,10 @@ I care deeply about the **product engineering mindset** — shipping systems tha
 
 **Open To:**
 
-<img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-6d28d9?style=flat-square" />
-<img src="https://img.shields.io/badge/Frontend%20%26%20Backend%20Roles-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM%20Integration%20in%20Web%20Dev-8b5cf6?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic%20AI%20Collaboration-a78bfa?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-2A2A2E?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend%20%26%20Backend%20Roles-8CA3B0?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM%20Integration%20in%20Web%20Dev-8CA3B0?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic%20AI%20Collaboration-9CA3AF?style=flat-square" />
 
 ---
 
@@ -77,7 +77,7 @@ I care deeply about the **product engineering mindset** — shipping systems tha
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-4c1d95?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C1C1F?style=for-the-badge&logo=langgraph&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 <img src="https://img.shields.io/badge/DeepSeek-0050FE?style=for-the-badge&logo=deepseek&logoColor=white" />
 
@@ -296,10 +296,10 @@ Completed a technical internship applying software development skills within a p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbeerAhmed1337&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbeerAhmed1337&theme=radical&hide_border=true&background=0f0524&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=c4b5fd" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbeerAhmed1337&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F10&title_color=8CA3B0&icon_color=8CA3B0&text_color=9CA3AF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbeerAhmed1337&theme=radical&hide_border=true&background=0F0F10&stroke=8CA3B0&ring=8CA3B0&fire=8CA3B0&currStreakLabel=9CA3AF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerAhmed1337&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerAhmed1337&layout=compact&theme=radical&hide_border=true&bg_color=0F0F10&title_color=8CA3B0&text_color=9CA3AF" width="49%"/>
 
 </div>
 
@@ -313,7 +313,7 @@ Completed a technical internship applying software development skills within a p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeerAhmed1337&theme=react-dark&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeerAhmed1337&theme=react-dark&bg_color=0F0F10&color=8CA3B0&line=8CA3B0&point=9CA3AF&hide_border=true"/>
 
 </div>
 
@@ -351,7 +351,7 @@ open_to:
 <a href="mailto:siddiqui.abeer456@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abeer-ahmed-1a5b002b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AbeerAhmed1337"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://portfolio-bice-psi-t09twg7r92.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4c1d95?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portfolio-bice-psi-t09twg7r92.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1C1C1F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -361,6 +361,6 @@ open_to:
 
 <i>"Good architecture makes AI systems boring in production — and that's the highest compliment."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4c1d95,25:3d1a78,50:2d1359,75:1a0b3d,100:0f0524&amp;height=150&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8CA3B0,25:5A6B75,50:2A2A2E,75:1C1C1F,100:0F0F10&height=150&section=footer"/>
 
 </div>
