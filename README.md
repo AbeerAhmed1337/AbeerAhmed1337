@@ -337,7 +337,7 @@ exploring:
   - Distributed systems patterns for AI infrastructure
 
 open_to:
-  - AI / Backend Engineering roles
+  - AI / Full-Stack Engineering roles
   - Agentic AI research collaboration
   - Graduate studies in AI / Computer Science
 ```
