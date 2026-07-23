@@ -219,7 +219,7 @@ A task management application built with C# and ASP.NET Core, demonstrating ente
 
 ## 💼 Experience
 
-**AI/Backend Engineering Intern · 10Pearls**
+**Front-End/Back-End Engineering Intern · 10Pearls**
 `Internship`
 
 Contributed to real-world software engineering workflows in a fast-paced product engineering environment, gaining exposure to industry-standard development practices.
@@ -286,6 +286,10 @@ Completed a technical internship applying software development skills within a p
   <strong>Google: Build and Deploy Agents in Production: DataCamp</strong><br>
   <img src="https://img.shields.io/badge/Build_and_Deploy_Agents_DataCamp-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+<p>
+  <strong>Claude: Claude Code in Action</strong><br>
+  <img src="https://img.shields.io/badge/Claude_Code_in_Action-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Analytics
@@ -301,13 +305,7 @@ Completed a technical internship applying software development skills within a p
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbeerAhmed1337&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
 
 ---
 
